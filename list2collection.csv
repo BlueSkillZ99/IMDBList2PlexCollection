@@ -1,0 +1,19 @@
+Collection,Link
+#Al Pacino,"https://www.imdb.com/search/title/?title_type=feature,tv_movie&role=nm0000199&count=250"
+#Anthony Hopkins,"https://www.imdb.com/search/title/?title_type=feature,tv_movie&role=nm0000164&count=250"
+#IMDB Action,"https://www.imdb.com/search/title/?title_type=feature&release_date=1980-01-01,&user_rating=5.0,10.0&num_votes=100000,&genres=action&lists=%21ls090035541&count=100"
+#IMDB Action,"https://www.imdb.com/search/title/?title_type=feature&release_date=1980-01-01,&user_rating=5.0,10.0&num_votes=100000,&genres=action&lists=%21ls090035541&sort=user_rating,desc&count=100"
+#IMDB Action,https://www.imdb.com/list/ls027328830/
+#IMDB Action,"https://www.imdb.com/list/ls027328830/?sort=list_order,asc&st_dt=&mode=detail&page=2"
+#IMDB Action,"https://www.imdb.com/list/ls027328830/?sort=list_order,asc&st_dt=&mode=detail&page=3"
+#IMDB Action,"https://www.imdb.com/list/ls027328830/?sort=list_order,asc&st_dt=&mode=detail&page=4"
+#IMDB Action,https://www.imdb.com/list/ls090049476/
+#Martial Arts,https://www.imdb.com/list/ls000099643/
+#Martial Arts,"https://www.imdb.com/list/ls000099643/?sort=list_order,asc&st_dt=&mode=detail&page=2"
+#Martial Arts,"https://www.imdb.com/list/ls000099643/?sort=list_order,asc&st_dt=&mode=detail&page=3"
+#Oscars Winners,"https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short&groups=oscar_winner&count=250"
+#Oscars Winners,"https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short&groups=oscar_winner&count=250&start=251&ref_=adv_nxt"
+#Oscars Winners,"https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short&groups=oscar_winner&count=250&start=501&ref_=adv_nxt"
+#Oscars Winners,"https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short&groups=oscar_winner&count=250&start=751&ref_=adv_nxt"
+#Oscars Winners,"https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short&groups=oscar_winner&count=250&start=1001&ref_=adv_nxt"
+#Oscars Winners,"https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short&groups=oscar_winner&count=250&start=1251&ref_=adv_nxt"
